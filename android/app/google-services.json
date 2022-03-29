@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "710586482688",
+    "project_id": "chat-app-c83be",
+    "storage_bucket": "chat-app-c83be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710586482688:android:3b1288019a589cff4518e5",
+        "android_client_info": {
+          "package_name": "com.rikaidata.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710586482688-a7bbopk9l226hnndu6hrtn1i85qh6pnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrdoLGEsEb3oNDY0uADG7IqRRru_ZVZWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710586482688-a7bbopk9l226hnndu6hrtn1i85qh6pnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
